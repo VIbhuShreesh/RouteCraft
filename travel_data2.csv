@@ -1,0 +1,521 @@
+Destination,Nearby_Places,Recommended_Days,Estimated_Cost_INR,Type,State
+Chennai,"Marina Beach, Fort St. George",2,4000–7000,"Coastal, Cultural",Tamil Nadu
+Madurai,"Meenakshi Temple, Thirumalai Nayak Palace",2,3000–6000,"Religious, Historical",Tamil Nadu
+Ooty,"Botanical Garden, Doddabetta Peak",2–3,5000–9000,Hill Station,Tamil Nadu
+Kodaikanal,"Coaker's Walk, Bryant Park",2–3,6000–9000,Hill Station,Tamil Nadu
+Rameswaram,"Ramanathaswamy Temple, Pamban Bridge",2,4000–7000,"Religious, Coastal",Tamil Nadu
+Thanjavur,"Brihadeeswara Temple, Saraswathi Mahal",2,3500–6000,"Cultural, Historical",Tamil Nadu
+Kanchipuram,"Kamakshi Temple, Ekambareswarar Temple",1–2,3000–5000,Religious,Tamil Nadu
+Tiruchirappalli,"Rockfort Temple, Srirangam",2,3000–5000,"Religious, Historical",Tamil Nadu
+Yelagiri,"Nature Park, Jalagamparai Falls",2,4000–6000,"Hill Station, Adventure",Tamil Nadu
+Chidambaram,Nataraja Temple,1,3000–5000,"Religious, Cultural",Tamil Nadu
+Coimbatore,"Marudhamalai Temple, Isha Foundation",2,4000–7000,"Spiritual, Urban",Tamil Nadu
+Hogenakkal,Hogenakkal Falls,1,3000–5000,"Nature, Waterfall",Tamil Nadu
+Nagapattinam,Velankanni Church,1–2,3000–5000,"Religious, Coastal",Tamil Nadu
+Theni,"Meghamalai, Suruli Falls",2,4000–7000,"Hill Station, Nature",Tamil Nadu
+Vellore,"Vellore Fort, Golden Temple",1–2,3500–6000,"Historical, Religious",Tamil Nadu
+Tiruvannamalai,Arunachaleswarar Temple,1–2,3000–5000,Spiritual,Tamil Nadu
+Courtallam,"Main Falls, Old Falls",2,3500–6000,"Nature, Waterfall",Tamil Nadu
+Dhanushkodi,"Ghost Town, Arichal Munai",1,3000–5000,"Beach, Scenic",Tamil Nadu
+Pondicherry,"Auroville, Promenade Beach",2,5000–8000,"French Town, Coastal",Tamil Nadu
+Namakkal,"Anjaneya Temple, Namakkal Fort",1,3000–5000,"Religious, Historical",Tamil Nadu
+Visakhapatnam,"RK Beach, Kailasagiri, Submarine Museum",2–3,5000–8000,"Coastal, Urban",Andhra Pradesh
+Araku Valley,"Borra Caves, Padmapuram Gardens",2,4000–7000,"Hill Station, Nature",Andhra Pradesh
+Tirupati,"Tirumala Temple, Kapila Theertham",2,4000–7000,Religious,Andhra Pradesh
+Vijayawada,"Kanaka Durga Temple, Undavalli Caves",2,4000–7000,"Religious, Urban",Andhra Pradesh
+Amaravati,"Amaravati Stupa, Amareswara Temple",1–2,3000–5000,"Heritage, Spiritual",Andhra Pradesh
+Srisailam,"Mallikarjuna Temple, Srisailam Dam",2,4000–7000,"Spiritual, Nature",Andhra Pradesh
+Lepakshi,"Veerabhadra Temple, Hanging Pillar",1,3000–5000,"Historical, Religious",Andhra Pradesh
+Kurnool,"Belum Caves, Konda Reddy Fort",2,4000–7000,"Caves, Historical",Andhra Pradesh
+Rajahmundry,"Godavari Bridge, ISKCON Temple",2,4000–6000,"Riverfront, Cultural",Andhra Pradesh
+Nellore,"Ranganatha Temple, Mypadu Beach",2,3000–6000,"Religious, Beach",Andhra Pradesh
+Anantapur,"Lepakshi Temple, Penukonda Fort",1–2,3500–6000,"Historical, Religious",Andhra Pradesh
+Kadapa,"Gandikota Fort, Vontimitta Temple",2,4000–7000,"Canyon, Religious",Andhra Pradesh
+Horsley Hills,"View Point, Environmental Park",2,4000–7000,Hill Station,Andhra Pradesh
+Machilipatnam,"Manginapudi Beach, Lighthouse",2,3500–6000,"Beach, Coastal",Andhra Pradesh
+Guntur,"Uppalapadu Bird Sanctuary, Kondaveedu Fort",2,4000–7000,"Nature, Historical",Andhra Pradesh
+Chandragiri,Chandragiri Fort,1,3000–5000,"Fort, Historical",Andhra Pradesh
+Nagarjuna Sagar,"Dam, Ethipothala Falls",2,4000–7000,"Nature, Dam",Andhra Pradesh
+Mangalagiri,Panakala Swamy Temple,1,3000–5000,Religious,Andhra Pradesh
+Draksharamam,Bhimeswara Swamy Temple,1,3000–5000,Spiritual,Andhra Pradesh
+Bhavani Island,"Water Sports, Nature Trails",1,3000–5000,"Leisure, Nature",Andhra Pradesh
+Munnar,"Tea Estates, Eravikulam National Park",2–3,5000–9000,"Hill Station, Nature",Kerala
+Alleppey,"Backwaters, Houseboat Cruise",2,6000–10000,"Backwaters, Leisure",Kerala
+Thekkady,Periyar Wildlife Sanctuary,2,5000–8000,"Wildlife, Nature",Kerala
+Kochi,"Fort Kochi, Marine Drive, Chinese Fishing Nets",2,4000–7000,"Historical, Coastal",Kerala
+Wayanad,"Edakkal Caves, Banasura Sagar Dam",2–3,5000–9000,"Hill Station, Adventure",Kerala
+Kovalam,"Lighthouse Beach, Hawa Beach",2,4000–7000,"Beach, Relaxation",Kerala
+Varkala,"Varkala Cliff, Papanasam Beach",2,4000–7000,"Beach, Scenic",Kerala
+Thrissur,"Vadakkunnathan Temple, Athirapally Falls",2,4000–7000,"Cultural, Nature",Kerala
+Palakkad,"Silent Valley, Palakkad Fort",2,4000–7000,"Nature, Historical",Kerala
+Guruvayur,"Guruvayur Temple, Elephant Camp",1–2,3000–5000,Religious,Kerala
+Bekal,"Bekal Fort, Bekal Beach",1–2,3000–6000,"Fort, Beach",Kerala
+Poovar,"Poovar Island, Estuary",2,4000–7000,"Backwater, Leisure",Kerala
+Kumarakom,"Bird Sanctuary, Backwaters",2,5000–8000,"Nature, Bird Watching",Kerala
+Idukki,"Idukki Dam, Hill View Park",2,4000–7000,"Hills, Dam",Kerala
+Malampuzha,"Malampuzha Dam, Garden",1–2,3000–5000,"Nature, Family",Kerala
+Ponmudi,"Golden Peak, Kallar River",1–2,3000–6000,Hill Station,Kerala
+Thiruvananthapuram,"Padmanabhaswamy Temple, Museum",2,4000–7000,"Cultural, Religious",Kerala
+Pathanamthitta,"Sabarimala, Aranmula",2,4000–6000,Pilgrimage,Kerala
+Kalpetta,"Pookode Lake, Soochipara Falls",2,4000–7000,"Nature, Adventure",Kerala
+Nelliampathy,"Pothundy Dam, Seetharkundu Viewpoint",2,4000–7000,"Hill Station, Scenic",Kerala
+Bengaluru,"Lalbagh, Cubbon Park",2,5000–8000,"Urban, Gardens",Karnataka
+Mysuru,"Mysore Palace, Chamundi Hills",2,4000–7000,"Cultural, Historical",Karnataka
+Coorg,"Abbey Falls, Dubare Elephant Camp",2–3,6000–10000,"Hill Station, Nature",Karnataka
+Hampi,"Vittala Temple, Virupaksha Temple",2–3,5000–8000,"Heritage, Ruins",Karnataka
+Badami,"Cave Temples, Agastya Lake",2,4000–7000,"Heritage, Rock Cut",Karnataka
+Gokarna,"Om Beach, Kudle Beach",2,4000–7000,"Beach, Spiritual",Karnataka
+Chikmagalur,"Mullayanagiri, Coffee Estates",2–3,5000–9000,"Hill Station, Coffee",Karnataka
+Udupi,"Krishna Temple, Malpe Beach",2,4000–7000,"Religious, Coastal",Karnataka
+Murudeshwar,"Shiva Statue, Beach",1–2,3000–6000,"Spiritual, Beach",Karnataka
+Belur,Chennakesava Temple,1,3000–5000,"Heritage, Architecture",Karnataka
+Halebidu,Hoysaleswara Temple,1,3000–5000,"Temple, History",Karnataka
+Bijapur,"Gol Gumbaz, Ibrahim Rauza",2,4000–7000,"Historical, Architecture",Karnataka
+Jog Falls,Waterfalls,1–2,4000–7000,"Waterfall, Scenic",Karnataka
+Kabini,"Kabini River Lodge, Safari",2,6000–10000,"Wildlife, Luxury",Karnataka
+Shimoga,"Tyavarekoppa Lion Safari, Sakrebailu",2,4000–7000,"Nature, Wildlife",Karnataka
+Agumbe,"Sunset Point, Rainforest Trails",1–2,3000–6000,"Rainforest, Scenic",Karnataka
+Sakleshpur,"Manjarabad Fort, Coffee Estates",2,4000–7000,"Nature, Hill Station",Karnataka
+Dandeli,"Kali River, Adventure Sports",2–3,5000–9000,"Adventure, Nature",Karnataka
+Nandi Hills,"Tipu's Fort, Sunrise Point",1,3000–5000,"Hill Station, Short Trip",Karnataka
+Shravanabelagola,Gommateshwara Statue,1,3000–5000,"Religious, Monument",Karnataka
+Hyderabad,"Charminar, Golconda Fort",2–3,6000–9000,"Urban, Historical",Telangana
+Warangal,"Warangal Fort, Thousand Pillar Temple",2,4000–7000,"Heritage, Cultural",Telangana
+Nagarjuna Sagar,"Dam, Ethipothala Falls",2,4000–7000,"Nature, Dam",Telangana
+Nalgonda,"Yadagirigutta, Bhongir Fort",2,4000–7000,"Spiritual, Fort",Telangana
+Bhadrachalam,"Sri Rama Temple, Godavari River",2,4000–7000,"Spiritual, Pilgrimage",Telangana
+Medak,"Medak Church, Medak Fort",1–2,3000–5000,"Heritage, Spiritual",Telangana
+Karimnagar,"Elgandal Fort, Deer Park",2,4000–7000,"Historical, Nature",Telangana
+Khammam,"Khammam Fort, Lakaram Lake",2,4000–7000,"Fort, Scenic",Telangana
+Adilabad,"Kuntala Falls, Basar Saraswati Temple",2,4000–7000,"Waterfall, Religious",Telangana
+Vemulawada,Raja Rajeshwara Temple,1–2,3000–5000,Religious,Telangana
+Dichpally,Ramalayam,1,3000–5000,"Temple, Historical",Telangana
+Sircilla,"Godavari River, Handloom Sites",1–2,3000–5000,"Cultural, Riverfront",Telangana
+Nirmal,"Nirmal Fort, Handicraft Centers",1–2,3000–5000,"Crafts, Heritage",Telangana
+Mancherial,Jannaram Forest,1–2,4000–6000,"Nature, Wildlife",Telangana
+Zaheerabad,"Medak Cathedral, Fort",1,3000–5000,"Church, Fort",Telangana
+Mahabubnagar,"Pillalamarri, Koilsagar",2,4000–7000,"Nature, Dam",Telangana
+Narayanpet,"Weaving Village, Rural Culture",1,3000–5000,"Cultural, Rural",Telangana
+Jagtial,"Fort, Temple",1,3000–5000,"Fort, Religious",Telangana
+Ramagundam,Thermal Power Plant View,1,3000–5000,"Industrial, Scenic",Telangana
+Bhupalpally,"Forests, Godavari Access",1–2,3000–5000,"Nature, River",Telangana
+Tawang,"Tawang Monastery, Sela Pass",3–4,8000–12000,"Monastery, Mountain",Arunachal Pradesh
+Ziro,"Ziro Valley, Talley Valley Sanctuary",2–3,6000–9000,"Valley, Nature",Arunachal Pradesh
+Bomdila,"Bomdila Monastery, View Point",2,5000–8000,"Hill Station, Cultural",Arunachal Pradesh
+Itanagar,"Ita Fort, Ganga Lake",2,4000–7000,"Urban, Historical",Arunachal Pradesh
+Dirang,"Dirang Dzong, Hot Water Spring",2,5000–8000,"Valley, Scenic",Arunachal Pradesh
+Pasighat,Daying Ering Wildlife Sanctuary,2,4000–7000,"Wildlife, River",Arunachal Pradesh
+Roing,"Mehao Lake, Mayudia Pass",2–3,6000–9000,"Lake, Pass",Arunachal Pradesh
+Anini,Seven Lakes Trek,3,7000–11000,"Trekking, Nature",Arunachal Pradesh
+Aalo,"Patum Bridge, Donyi Polo Temple",2,4000–7000,"Nature, Religious",Arunachal Pradesh
+Tezu,"Parashuram Kund, Tezu Museum",2,4000–7000,"Pilgrimage, Scenic",Arunachal Pradesh
+Seppa,"Pacha River, Hills",1–2,4000–6000,"River, Hills",Arunachal Pradesh
+Changlang,Namdapha National Park,2–3,6000–10000,"Wildlife, Forest",Arunachal Pradesh
+Yingkiong,Mouling National Park,2,4000–7000,"Forest, Hills",Arunachal Pradesh
+Khonsa,"Khonsa Museum, Tribal Culture",2,4000–7000,"Cultural, Tribal",Arunachal Pradesh
+Hayuliang,"Lohit River, Hills",2,4000–7000,"River, Mountain",Arunachal Pradesh
+Daporijo,"Subansiri River, Tribal Villages",2,4000–7000,"Cultural, River",Arunachal Pradesh
+Koloriang,"Kamla River, Hills",2,4000–7000,"River, Nature",Arunachal Pradesh
+Tuting,"Siang River, Mountains",2,4000–7000,"River, Trekking",Arunachal Pradesh
+Mechuka,"Sambo Gompa, Mechuka Valley",2–3,6000–9000,"Valley, Monastery",Arunachal Pradesh
+Likabali,"Tribal villages, Nature trails",2,4000–7000,"Cultural, Nature",Arunachal Pradesh
+Guwahati,"Kamakhya Temple, Umananda Island",2,4000–7000,"Urban, Religious",Assam
+Kaziranga National Park,"Jeep Safari, Elephant Safari",2–3,6000–10000,"Wildlife, Nature",Assam
+Majuli,"Satras, River Island Views",2,4000–7000,"River Island, Cultural",Assam
+Tezpur,"Agnigarh Hill, Mahabhairav Temple",2,4000–7000,"Historical, Religious",Assam
+Jorhat,Hoollongapar Gibbon Sanctuary,2,4000–7000,"Wildlife, Culture",Assam
+Sivasagar,"Rang Ghar, Talatal Ghar",2,4000–7000,"Heritage, Architecture",Assam
+Dibrugarh,"Tea Gardens, Dibrugarh University",2,4000–7000,"Tea, Education",Assam
+Barpeta,"Barpeta Satra, Manas National Park",2,4000–7000,"Spiritual, Wildlife",Assam
+Manas National Park,"Jeep Safari, Bansbari Range",2–3,6000–10000,"Biosphere, Forest",Assam
+Haflong,"Haflong Lake, Jatinga",2,5000–8000,"Hill Station, Nature",Assam
+Diphu,"Botanical Garden, Arboretum",2,4000–6000,"Cultural, Nature",Assam
+Nagaon,"Bordowa Than, Laokhowa Sanctuary",2,4000–7000,"Religious, Wildlife",Assam
+Silchar,"Dolu Lake, Khaspur",2,4000–7000,"Urban, Historical",Assam
+Tinsukia,Dibru-Saikhowa National Park,2–3,5000–9000,"Wildlife, River",Assam
+North Lakhimpur,"Narayanpur, Bordoloni",2,4000–6000,"Rural, Cultural",Assam
+Goalpara,"Sri Surya Pahar, Dadan Hills",2,4000–6000,"Heritage, Hills",Assam
+Karimganj,Chhatachura Range,1–2,4000–6000,"Nature, Rural",Assam
+Bongaigaon,"Bagheshwari Temple, Koya Kujia Lake",2,4000–6000,"Religious, Lake",Assam
+Morigaon,Pobitora Wildlife Sanctuary,2,4000–7000,"Wildlife, Nature",Assam
+Udalguri,Bornadi Wildlife Sanctuary,2,4000–7000,"Wildlife, Hills",Assam
+Patna,"Golghar, Patna Museum, Gandhi Maidan",2,4000–7000,"Urban, Historical",Bihar
+Bodh Gaya,"Mahabodhi Temple, Bodhi Tree",2,4000–7000,"Religious, Buddhist",Bihar
+Rajgir,"Venuvana, Ropeway, Cyclopean Wall",2,4000–6000,"Historical, Nature",Bihar
+Nalanda,"Nalanda University Ruins, Nalanda Museum",1–2,3000–6000,"Heritage, Educational",Bihar
+Vaishali,"Ashokan Pillar, Buddha Stupa",1–2,3000–6000,"Buddhist, Historical",Bihar
+Gaya,"Vishnupad Temple, Falgu River",2,4000–7000,"Religious, Spiritual",Bihar
+Muzaffarpur,"Jubba Sahni Park, Litchi Orchards",1–2,3000–5000,"Urban, Agricultural",Bihar
+Darbhanga,"Darbhanga Fort, Anand Bagh Palace",2,4000–6000,"Cultural, Architectural",Bihar
+Bhagalpur,"Vikramshila University Ruins, River Ganga",2,4000–7000,"Heritage, Riverside",Bihar
+Sasaram,"Sher Shah Suri Tomb, Rohtas Fort",2,4000–7000,"Fort, Historical",Bihar
+Pawapuri,"Jal Mandir, Digambar Jain Temple",1–2,3000–5000,Jain Pilgrimage,Bihar
+Sitamarhi,"Sita Kund, Janaki Mandir",1–2,3000–5000,"Religious, Mythological",Bihar
+Buxar,"Buxar Fort, Ganga Ghats",1–2,3000–5000,"Historical, Riverfront",Bihar
+Begusarai,Kanwar Lake Bird Sanctuary,1–2,3000–5000,"Nature, Birdwatching",Bihar
+Arrah,"Jagdishpur Fort, Arrah House",1–2,3000–5000,"Historical, Colonial",Bihar
+Munger,"Bihar School of Yoga, Munger Fort",2,4000–7000,"Wellness, Historical",Bihar
+Champaran,"Gandhi Ashram, Motihari Lake",2,3000–6000,"Freedom Movement, Nature",Bihar
+Hajipur,"Ramchaura Mandir, Mahatma Gandhi Setu",1,3000–5000,"Religious, River",Bihar
+Katihar,"Manihari Ghat, Barari Hill",1–2,3000–5000,"Scenic, Rural",Bihar
+Sheikhpura,"Girihinda Pahar, Religious Spots",1,3000–5000,"Pilgrimage, Nature",Bihar
+Raipur,"Mahant Ghasidas Museum, Nandan Van Zoo",2,4000–7000,"Urban, Cultural",Chhattisgarh
+Jagdalpur,"Chitrakote Falls, Anthropological Museum",2–3,5000–8000,"Waterfall, Tribal Culture",Chhattisgarh
+Bastar,"Tribal Villages, Danteshwari Temple",2–3,5000–8000,"Tribal, Spiritual",Chhattisgarh
+Dantewada,"Danteshwari Temple, River Views",2,4000–7000,"Religious, Scenic",Chhattisgarh
+Chitrakote Falls,"Chitradhara Falls, Tirathgarh Falls",2,5000–8000,"Nature, Waterfall",Chhattisgarh
+Bhoramdeo,"Bhoramdeo Temple, Wildlife Sanctuary",1–2,3000–5000,"Religious, Wildlife",Chhattisgarh
+Kanger Valley,"Kanger Valley National Park, Caves",2–3,5000–8000,"Forest, Wildlife",Chhattisgarh
+Mainpat,"Tiger Point, Tibetan Settlement",2,4000–7000,"Hill Station, Buddhist",Chhattisgarh
+Sirpur,"Lakshman Temple, Buddhist Monastery",1–2,3000–5000,"Heritage, Archaeological",Chhattisgarh
+Bilaspur,"Achanakmar Wildlife Sanctuary, Kanan Pendari",2,4000–7000,"Wildlife, Nature",Chhattisgarh
+Ambikapur,"Mahamaya Temple, Jogimara Caves",2,4000–7000,"Religious, Historical",Chhattisgarh
+Koriya,"Amrit Dhara Falls, Guru Ghasidas Park",2,4000–6000,"Waterfall, Nature",Chhattisgarh
+Dhamtari,"Gangrel Dam, Sitanadi Sanctuary",2,4000–6000,"Dam, Adventure",Chhattisgarh
+Charre Marre,"Charre Marre Waterfalls, Nature Trail",1,3000–5000,"Waterfall, Scenic",Chhattisgarh
+Bhilai,"Maitri Bagh Zoo, Bhilai Steel Plant",2,4000–6000,"Urban, Industrial",Chhattisgarh
+Jashpur,"Kailash Gufa, Kotebira Eb River",2,4000–7000,"Adventure, Scenic",Chhattisgarh
+Korba,"Hasdeo River, Thermal Plant Tour",1–2,4000–6000,"Industrial, River",Chhattisgarh
+Raigarh,"Gomarda Reserve Forest, Hill Views",2,4000–7000,"Forest, Wildlife",Chhattisgarh
+Balod,"Ganga Maiya Temple, Tandula Dam",1,3000–5000,"Religious, Dam",Chhattisgarh
+Kawardha,"Kawardha Palace, Bhoramdeo Complex",1–2,3000–5000,"Royal, Religious",Chhattisgarh
+Panaji,"Miramar Beach, Church of Our Lady of the Immaculate Conception",2,4000–7000,"Urban, Historical",Goa
+Baga Beach,"Calangute Beach, Tito’s Nightclub",2,6000–10000,"Beach, Party",Goa
+Anjuna Beach,"Chapora Fort, Anjuna Flea Market",2,5000–8000,"Beach, Relaxation",Goa
+Candolim Beach,"Fort Aguada, SinQ Beach",2,5000–8000,"Beach, Historical",Goa
+Colva Beach,"Betalbatim Beach, Benaulim Beach",2,4000–7000,"Beach, Family",Goa
+Palolem Beach,"Butterfly Beach, Cabo De Rama Fort",2,5000–9000,"Beach, Scenic",Goa
+Vagator Beach,"Chapora Fort, Anjuna Flea Market",2,4000–7000,"Beach, Party",Goa
+Arambol Beach,"Sweet Water Lake, Paragliding",2,5000–8000,"Beach, Adventure",Goa
+Morjim Beach,"Chapora River, Mandrem Beach",2,4000–7000,"Beach, Nature",Goa
+Dona Paula,"Dona Paula Viewpoint, National Oceanography Institute",2,4000–7000,"Beach, Scenic",Goa
+Calangute Beach,"Candolim Beach, Fort Aguada",2,5000–8000,"Beach, Historical",Goa
+Chapora Fort,"Vagator Beach, Anjuna Beach",1,3000–5000,"Historical, Scenic",Goa
+Fort Aguada,"SinQ Beach, Candolim Beach",2,4000–7000,"Historical, Beach",Goa
+Basilica of Bom Jesus,"Se Cathedral, Museum of Christian Art",1–2,3000–6000,"Religious, Cultural",Goa
+Se Cathedral,"St. Cajetan Church, Museum of Christian Art",1,3000–5000,"Religious, Historical",Goa
+Dudhsagar Waterfalls,Bhagwan Mahavir Wildlife Sanctuary,2,5000–8000,"Waterfall, Nature",Goa
+Spice Plantations,"Sahakari Spice Farm, Savoi Plantation",1–2,3000–6000,"Nature, Educational",Goa
+Cotigao Wildlife Sanctuary,Netravali Wildlife Sanctuary,2,4000–7000,"Wildlife, Nature",Goa
+Netravali Waterfall,"Cotigao Wildlife Sanctuary, Savoi Plantations",2,4000–7000,"Waterfall, Wildlife",Goa
+Chapora River,"Chapora Fort, Vagator Beach",1,3000–5000,"River, Adventure",Goa
+Ahmedabad,"Sabarmati Ashram, Jama Masjid",2,4000–7000,"Urban, Historical",Gujarat
+Gandhinagar,"Akshardham Temple, Indroda Nature Park",1–2,3000–6000,"Cultural, Nature",Gujarat
+Vadodara (Baroda),"Lakshmi Vilas Palace, Sayaji Baug",2,4000–7000,"Royal, Botanical",Gujarat
+Surat,"Dumas Beach, Sardar Patel Museum",1–2,3000–6000,"Coastal, Cultural",Gujarat
+Rajkot,"Watson Museum, Rotary Dolls Museum",1–2,3000–6000,"Cultural, Museum",Gujarat
+Bhavnagar,"Takhteshwar Temple, Victoria Park",2,3500–6500,"Religious, Urban",Gujarat
+Dwarka,"Dwarkadhish Temple, Rukmini Devi Temple",2,5000–8000,"Pilgrimage, Coastal",Gujarat
+Somnath,"Somnath Temple, Triveni Sangam",1–2,4000–7000,"Pilgrimage, Coastal",Gujarat
+Junagadh,"Uparkot Fort, Girnar Hills",2–3,4000–8000,"Fort, Hill Station",Gujarat
+Gir National Park,"Devaliya Safari Park, Gir Interpretation Zone",2–3,6000–10000,"Wildlife, Forest",Gujarat
+Kutch (Bhuj),"Great Rann of Kutch, Kutch Museum",2–3,6000–10000,"Desert, Cultural",Gujarat
+Saputara,"Saputara Lake, Sunset Point",1–2,4000–7000,"Hill Station, Scenic",Gujarat
+Palitana,"Shatrunjaya Temples, Jain Museum",1–2,3000–6000,"Pilgrimage, Heritage",Gujarat
+Modhera,"Sun Temple, Rani ki Vav (Patan)",1,3000–5000,"Temple, Architectural",Gujarat
+Rani ki Vav (Patan),"Patan Museum, Sahasralinga",1,3000–5000,"Stepwell, Heritage",Gujarat
+Champaner-Pavagadh,"Champaner Archaeological Park, Pavagadh Hill",2,4000–7000,"Archaeological, Hill Station",Gujarat
+Bharuch,"Narmada Riverfront, Golden Bridge",1–2,3000–6000,"Riverfront, Historical",Gujarat
+Ambaji,"Ambaji Temple, Gabbar Hill",1–2,3000–6000,"Pilgrimage, Hill Station",Gujarat
+Mandvi,"Vijay Vilas Palace, Mandvi Beach",2,4000–7000,"Heritage, Coastal",Gujarat
+Pavagadh Hill & Palace,"Kalika Mata Temple, Archaeological Site",1–2,3000–6000,"Pilgrimage, UNESCO Heritage Site",Gujarat
+Gurugram (Gurgaon),"Kingdom of Dreams, Qutub Khan’s Tomb",1,3500–7000,"Urban, Entertainment",Haryana
+Faridabad,"Surajkund (Craft Mela), Badkhal Lake",1–2,3000–6000,"Cultural, Nature",Haryana
+Panipat,"Ibrahim Lodhi’s Kabuli Bagh, Panipat Museum",1,2500–4500,"Historical, Fort",Haryana
+Kurukshetra,"Brahma Sarovar, Jyotisar",1–2,3000–6000,"Religious, Historical",Haryana
+Panchkula,"Pinjore Gardens, Cactus Garden",1,3000–6000,"Garden, Scenic",Haryana
+Morni Hills,"Tikkar Taal Lake, Morni Fort",2,4000–7000,"Hill Station, Nature",Haryana
+Sultanpur Bird Sanctuary,Migratory Waterfowl Viewing,1,3000–5000,"Wildlife, Bird Sanctuary",Haryana
+Hisar,"Firoz Shah Palace, Agroha Mound",1–2,3000–6000,"Heritage, Archaeological",Haryana
+Narnaul,"Jal Mahal, Collegiate Church",1,3000–6000,"Heritage, Religious",Haryana
+Yamunanagar,"Adi Badri Temples, Kapal Mochan",2,4000–7000,"Religious, Nature",Haryana
+Karnal,"Karna Lake, Cantonment Park",1,3000–6000,"Lake, Urban",Haryana
+Rohtak,"Tilyar Lake, ASI Park",1,3000–6000,"Leisure, Nature",Haryana
+Jind,"Ramgarh Lake, Umra Narayan Temple",1–2,3000–6000,"Leisure, Religious",Haryana
+Kaithal,"Sheikh Chehli Tomb, Tomb of Mirza Aziz Koka",1,3000–6000,"Heritage, Religious",Haryana
+Rewari,"Heritage Steam Locomotive Museum, Rajiv Gandhi Herbal Park",1,3000–6000,"Museum, Botanical",Haryana
+Ambala,"Japanese Garden, Ambala Air Force Station Museum",1,3000–6000,"Cultural, Historical",Haryana
+Nuh (Mewat),"Kotla Fort, Nalhar Mahadev Temple",1,3000–6000,"Fort, Religious",Haryana
+Farrukhnagar,"Farrukhnagar Lake, Colonial-Era Havelis",1,3000–6000,"Heritage, Scenic",Haryana
+Karnal Cantonment,"Amar Jawan Jyoti, Springdales Park",1,2500–5000,"War Memorial, Recreation",Haryana
+Pinjore,"Morni Hills (short trip), Yadavindra Gardens",1–2,3000–6000,"Gardens, Hill Base",Haryana
+Shimla,"Mall Road, Jakhu Temple",2–3,5000–8000,"Hill Station, Urban",Himachal Pradesh
+Manali,"Rohtang Pass, Solang Valley",3–4,7000–12000,"Mountain, Adventure",Himachal Pradesh
+Dharamshala,"McLeod Ganj, Bhagsu Falls",2–3,6000–10000,"Spiritual, Scenic",Himachal Pradesh
+Dalhousie,"Khajjiar, Satdhara Falls",2–3,6000–9000,"Hill Station, Nature",Himachal Pradesh
+Kullu,"Great Himalayan National Park, River Rafting Spots",2–3,7000–11000,"Adventure, Nature",Himachal Pradesh
+Kasauli,"Monkey Point, Gilbert Trail",1–2,4000–7000,"Hill Station, Quiet Retreat",Himachal Pradesh
+Chamba,"Chamera Lake, Bhuri Singh Museum",2,5000–8000,"Cultural, Riverside",Himachal Pradesh
+Kinnaur,"Sangla Valley, Kamru Fort",3,8000–13000,"Valley, Cultural",Himachal Pradesh
+Spiti Valley,"Key Monastery, Chandratal Lake",4–5,9000–15000,"Deserted Highlands, Trekking",Himachal Pradesh
+Tirthan Valley,"Jalori Pass, Great Himalayan National Park",2–3,6000–10000,"Wildlife, River",Himachal Pradesh
+Jibhi,"Jibhi Waterfall, Serolsar Lake",2,5000–8000,"Secluded, Nature",Himachal Pradesh
+Reckong Peo,"Kinnaur Kailash Viewpoint, Sangla",2,7000–11000,"Scenic, Cultural",Himachal Pradesh
+Khajjiar,"Khajjiar Lake, Mini Switzerland",1–2,5000–8000,"Meadow, Panoramic",Himachal Pradesh
+Bir Billing,"Paragliding Launch Site, Bir Tea Factory",2,6000–10000,"Adventure, Cultural",Himachal Pradesh
+Great Himalayan NP,"Wildlife Tours, Conservation Centre",2–3,6000–10000,"National Park, Wildlife",Himachal Pradesh
+Sarchu,"High?altitude Camp, Road to Leh",1–2,7000–12000,"Base Camp, Scenic",Himachal Pradesh
+Palampur,"Tea Gardens, Baijnath Temple",1–2,4000–7000,"Tea Estates, Spiritual",Himachal Pradesh
+Mandi,"Shiv Temple Complex, Rewalsar Lake",2,5000–8000,"Religious, Lakeside",Himachal Pradesh
+Chitkul,"Baspa River, India’s Last Village",1–2,6000–9000,"Remote, Nature",Himachal Pradesh
+Barot,"Uhl River, Barot Dam",1–2,5000–8000,"Secluded, Angling",Himachal Pradesh
+Ranchi,"Rock Garden, Hundru Falls",2,4000–7000,"Urban, Waterfall",Jharkhand
+Jamshedpur,"Jubilee Park, Dalma Wildlife Sanctuary",1–2,3500–6000,"Urban, Nature",Jharkhand
+Deoghar,"Baba Baidyanath Temple, Nandan Pahar",2,4000–7000,"Pilgrimage, Hill",Jharkhand
+Hazaribagh,"Hazaribagh National Park, Canary Hill",2,4500–7500,"Wildlife, Scenic",Jharkhand
+Netarhat,"Magnolia Point, Betla National Park",2–3,5000–8000,"Sunrise Point, Forest",Jharkhand
+Betla National Park,"Elephant Rides, Safari Tours",2,6000–10000,"Wildlife, National Park",Jharkhand
+Parasnath (Shikharji),"Jain Temples, Hilltop Trek",2–3,5000–8500,"Religious, Trekking",Jharkhand
+Hundru Falls,"Jarkhandi Bridge, Poolside Areas",1,3000–6000,"Waterfall, Picnic Spot",Jharkhand
+Dassam Falls,"Vishnu Spring, Picnic Areas",1,3000–6000,"Waterfall, Nature",Jharkhand
+Topchanchi,"Topchanchi Lake, Temple",1,3000–5000,"Lake, Spiritual",Jharkhand
+Palamu,"Palamu Forts, Mukauri Hills",2,4500–8000,"Fort, Wildlife Sanctuary",Jharkhand
+Jonha Falls,"Gautam Budh Park, Viewpoints",1,3000–6000,"Waterfall, Park",Jharkhand
+Rajrappa Temple,"Rajrappa Falls, Confluence Point",1,3000–6000,"Pilgrimage, Scenic",Jharkhand
+Patratu,"Patratu Valley, Dam Viewpoint",1–2,3000–5000,"Valley, Picnic Spot",Jharkhand
+Kanke Dam,"Pocket Garden, Boating",1,3000–5000,"Reservoir, Recreation",Jharkhand
+Sahebganj,"River Ganges Ghats, Temple",1–2,3000–6000,"Riverside, Spiritual",Jharkhand
+Dalma Wildlife Sanc.,"Hiking Trails, Safari",2,4000–8000,"Wildlife, Trekking",Jharkhand
+Trikut Hill,"Cable Car, Hilltop View",1,3000–6000,"Hill, Adventure",Jharkhand
+Ratu,"Ratu Palace, Ratu Temple",1,3000–5000,"Historical, Spiritual",Jharkhand
+Pandu Falls,"Small Waterfall, Picnic Area",1,3000–5000,"Waterfall, Nature",Jharkhand
+Bhopal,"Upper Lake, Van Vihar National Park",2,4000–7000,"Urban, Lake",Madhya Pradesh
+Indore,"Rajwada Palace, Lal Bagh Palace",1–2,3500–6000,"Urban, Cultural",Madhya Pradesh
+Gwalior,"Gwalior Fort, Tansen Tomb",2,4000–7000,"Fort, Musical Heritage",Madhya Pradesh
+Jabalpur,"Marble Rocks, Dhuandhar Falls",2,4500–8000,"Waterfall, Gorge",Madhya Pradesh
+Khajuraho,"Western Group of Temples, Light & Sound Show",2,5000–8500,"Heritage, Sculpture",Madhya Pradesh
+Sanchi,"Sanchi Stupa, Archaeological Museum",1–2,3000–6000,"Buddhist, Heritage",Madhya Pradesh
+Ujjain,"Mahakaleshwar Temple, Ramanaka Kund",1–2,3000–6000,"Pilgrimage, Riverfront",Madhya Pradesh
+Kanha NP,"Safari Tours, Bunkara Range",2–3,6000–10000,"Wildlife, National Park",Madhya Pradesh
+Bandhavgarh NP,"Tiger Reserve, Bandhavgarh Fort",2–3,6000–11000,"Wildlife, Fort",Madhya Pradesh
+Pench NP,"Jungle Safari, Tourist Camps",2,5000–9000,"Wildlife, River",Madhya Pradesh
+Pachmarhi,"Bee Falls, Jata Shankar Caves",2–3,6000–10000,"Hill Station, Nature",Madhya Pradesh
+Mandu,"Jahaz Mahal, Rani Roopmati Pavilion",1–2,4000–7000,"Heritage, Panorama",Madhya Pradesh
+Omkareshwar,"Omkareshwar Temple, Narmada Ghats",1–2,3000–6000,"Pilgrimage, River",Madhya Pradesh
+Maheshwar,"Ahilya Fort, Narmada Riverbank",1–2,3000–6000,"Heritage, Textile",Madhya Pradesh
+Bhimbetka,"Rock Shelters, Prehistoric Paintings",1–2,3000–6000,"Archaeological, Heritage",Madhya Pradesh
+Satpura Tiger Res.,"Jungle Safari, Trekking",2–3,6000–11000,"Wildlife, Adventure",Madhya Pradesh
+Chanderi,"Chanderi Fort, Jain Temples",1,3000–5000,"Heritage, Textile",Madhya Pradesh
+Gwalior Bird Sanct.,"Vulture Safari, Bird Watching",1,3000–5000,"Wildlife, Avian",Madhya Pradesh
+Dhubela,"Jain Temples, Rock Carvings",1,3000–5000,"Spiritual, Heritage",Madhya Pradesh
+Burhanpur,"Shahi Quila, Dargah of Hazrat Dawood",1–2,3000–6000,"Fort, Spiritual",Madhya Pradesh
+Mumbai,"Gateway of India, Marine Drive",2–3,7000–12000,"Urban, Coastal",Maharashtra
+Pune,"Shaniwar Wada, Aga Khan Palace",2,5000–9000,"Historical, Cultural",Maharashtra
+Nashik,"Trimbakeshwar Temple, Sula Vineyards",2,4000–7000,"Religious, Wine Tourism",Maharashtra
+Aurangabad,"Ajanta Caves, Ellora Caves",2–3,6000–10000,"Heritage, Cave Temples",Maharashtra
+Mahabaleshwar,"Venna Lake, Pratapgad Fort",2–3,5000–9000,"Hill Station, Nature",Maharashtra
+Lonavala,"Bhushi Dam, Tiger’s Leap",1–2,3000–6000,"Hill Station, Scenic",Maharashtra
+Alibaug,"Kolaba Fort, Alibaug Beach",2,4000–7000,"Coastal, Historical",Maharashtra
+Ratnagiri,"Ganpatipule Beach, Ratnadurg Fort",2,5000–8000,"Beach, Fort",Maharashtra
+Tarkarli,"Tarkarli Beach, Sindhudurg Fort",2–3,6000–10000,"Beach, Fort",Maharashtra
+Sindhudurg,"Sindhudurg Fort, Rock Garden",1–2,4000–7000,"Fort, Garden",Maharashtra
+Khandala,"Duke’s Nose, Rajmachi Point",1,3000–6000,"Hill Station, Adventure",Maharashtra
+Chikhaldara,"Melghat Tiger Reserve, Gawilgarh Fort",2,5000–8000,"Wildlife, Historical",Maharashtra
+Matheran,"Charlotte Lake, Panorama Point",1–2,3000–6000,"Hill Station, Nature",Maharashtra
+Kolhapur,"Mahalaxmi Temple, Panhala Fort",1–2,3000–6000,"Religious, Fort",Maharashtra
+Shirdi,"Sai Baba Temple, Dwarkamai",1–2,3000–6000,Pilgrimage,Maharashtra
+Igatpuri,"Vipassana Centre, Bhatsa River Valley",1–2,4000–7000,"Spiritual, Scenic",Maharashtra
+Nanded,"Hazur Sahib, Nanded Fort",1–2,3000–6000,"Religious, Fort",Maharashtra
+Bhandardara,"Arthur Lake, Randha Falls",1–2,4000–7000,"Nature, Lakeside",Maharashtra
+Jawhar,"Jai Vilas Palace, Dabhosa Waterfall",1–2,4000–7000,"Cultural, Waterfall",Maharashtra
+Lonar,"Lonar Crater Lake, Palahalli Wildlife Sanctuary",1,3000–6000,"Geological, Wildlife",Maharashtra
+Shillong,"Ward’s Lake, Elephant Falls",2–3,5000–9000,"Hill Station, Urban",Meghalaya
+Cherrapunji (Sohra),"Nohkalikai Falls, Mawsmai Caves",2,4000–8000,"Waterfall, Cave",Meghalaya
+Mawlynnong,"Living Root Bridges, Sky Viewpoint",1–2,3000–6000,"Village, Scenic",Meghalaya
+Dawki,"Umngot River Boat Ride, Shnongpdeng Village",1,3000–6000,"River, Adventure",Meghalaya
+Jowai,"Krang Suri Falls, Thadlaskein Lake",1–2,3500–7000,"Waterfall, Lake",Meghalaya
+Tura,"Sippi Falls, Noksur Falls",2,4000–8000,"Waterfall, Scenic",Meghalaya
+Mawphlang,Sacred Forest,1,3000–6000,"Forest, Spiritual",Meghalaya
+Shillong Peak,"Highest Peak in Shillong, Viewpoint",1,3000–5000,"Scenic, Photography",Meghalaya
+Laitlum Canyons,Canyons and Viewpoints,1,3000–5000,"Canyons, Scenic",Meghalaya
+Mawsynram,World’s Wettest Village,1,3000–6000,"Village, Nature",Meghalaya
+Nartiang Monoliths,Megalithic Stones,1,3000–5000,"Archaeological, Historical",Meghalaya
+Krang Suri Falls,Crystal?clear Waterfall,1,3000–6000,"Waterfall, Adventure",Meghalaya
+Siju Caves,Limestone Cave System,1–2,3000–6000,"Cave, Geologic",Meghalaya
+Nokrek NP,"Wildlife Sanctuary, Biodiversity",2,5000–9000,"National Park, Wildlife",Meghalaya
+Balpakram NP,"National Park, Tribal Heritage",2,5000–9000,"National Park, Cultural",Meghalaya
+Dainthlen Falls,Waterfall near Jowai,1,3000–5000,"Waterfall, Nature",Meghalaya
+Umiam Lake,"Boating, Lakeside Parks",1–2,3000–6000,"Lake, Recreation",Meghalaya
+Sweet Falls,Scenic Waterfall,1,3000–5000,"Waterfall, Nature",Meghalaya
+Lum Nehru Park,"City Park, Boating",1,3000–5000,"Park, Urban",Meghalaya
+Sohra Peak,Panoramic Peak near Cherrapunji,1,3000–5000,"Hill, Scenic",Meghalaya
+Aizawl,"Bara Bazar, Durtlang Hills",2,4000–8000,"Urban, Scenic",Mizoram
+Champhai,"Vantawng Falls, Zokhawthar Border",1–2,4000–7000,"Hill Station, Border",Mizoram
+Vantawng Falls,Multi?tier Waterfall,1,3000–6000,"Waterfall, Nature",Mizoram
+Phawngpui (Blue Mountain),"Phawngpui Peak, Nacho Village",2–3,5000–9000,"Mountain, Trekking",Mizoram
+Lunglei,"David’s Falls, Saikuti Hall",1–2,3500–7000,"Urban, Waterfall",Mizoram
+Reiek Tlang,"Eco?park, Trekking Trails",1–2,3000–6000,"Hill, Eco?tourism",Mizoram
+Murlen National Park,"Biodiversity, Trekking",2,4000–8000,"National Park, Wildlife",Mizoram
+Serchhip,"Khawnglung Caves, Vengthlang Hills",1–2,3000–6000,"Caves, Scenic",Mizoram
+Hnahthial,"Tour View Point, Waterfalls",1,3000–6000,"Scenic, Nature",Mizoram
+Kolasib,"Dangru Waterfall, Bunkawn Park",1,3000–6000,"Waterfall, Park",Mizoram
+Tam Dil Lake,"Scenic Lake, Boating",1–2,3000–6000,"Lake, Leisure",Mizoram
+Palak Wildlife Sanctuary,"Rare Reptiles, Eco?tourism",2,4000–8000,"Sanctuary, Wildlife",Mizoram
+Saiha,"Lake, Tribal Museum",1–2,3500–7000,"Scenic, Cultural",Mizoram
+Dampa Tiger Reserve,"Safari Tours, Biodiversity",2–3,5000–9000,"Wildlife, Reserve",Mizoram
+Serlui B Dam,"Reservoir, Boating",1,3000–6000,"Dam, Recreation",Mizoram
+Tamenglong Hills,"Trekking, Tribal Villages",2,4000–8000,"Trekking, Cultural",Mizoram
+Thenzawl,"Vantawng Falls (access point), Herbal Research Station",1,3000–6000,"Waterfall, Botanical",Mizoram
+Hmuifang,"Hmuifang Ecotourism Project, Scenic Views",1,3000–6000,"Eco?park, Hill",Mizoram
+Tuirihiau Falls,Falls behind a cave,1,3000–6000,"Waterfall, Adventure",Mizoram
+Tam Dil Eco Park,"Boating, Nature Trails",1,3000–6000,"Park, Nature",Mizoram
+Kohima,"War Cemetery, Kisama Heritage Village",2,4000–7000,"Historical, Cultural",Nagaland
+Dimapur,"Kachari Ruins, Rangapahar Reserve Forest",1–2,3500–6000,"Archaeological, Wildlife",Nagaland
+Mokokchung,"Chungtia Village, Ongpangkong Range",2,4000–7000,"Tribal, Scenic",Nagaland
+Mon,"Mon Town, S.D.O. Hill",2,4000–7000,"Cultural, Scenic",Nagaland
+Tuensang,"Japfu Peak Viewpoint, Tizu Valley",2,4500–8000,"Mountain, Scenic",Nagaland
+Phek,"Phek Lake, Zuku Village",1–2,4000–7000,"Lake, Cultural",Nagaland
+Wokha,"Mount Tiyi, Lahe Range",2,4000–7000,"Hill Station, Cultural",Nagaland
+Zunheboto,"Sümi Baptist Church, Mount Pauna",1–2,4000–7000,"Religious, Scenic",Nagaland
+Peren,"Peren Town, Peren R.D. Falls",1–2,3500–6000,"Scenic, Waterfall",Nagaland
+Kiphire,"Kiphire Town, Thonoknyu Waterfalls",1–2,4000–7000,"Waterfall, Nature",Nagaland
+Longleng,"Longleng Town, Eastern Range Forest",1–2,3500–6000,"Hill, Forest",Nagaland
+Noklak,"Noklak Town, Noklak Lake",1–2,3500–6000,"Lake, Remote",Nagaland
+Khonoma,"Khonoma Village, Kezol–die Waterfall",1–2,3500–6000,"Village, Waterfall",Nagaland
+Kigwema,"Kigwema Village, Kohima Viewpoint",1,3000–5000,"Village, Scenic",Nagaland
+Dzükou Valley,"Valley Trek, Khonoma",2–3,5000–9000,"Trekking, Scenic",Nagaland
+Japfu Peak,"Japfu Trek Route, Mount Saramati View",2–3,5000–9000,"Mountain, Trekking",Nagaland
+Saramati Peak,"Saramati Trek, Meluri Village",3–4,6000–10000,"Mountain, Remote",Nagaland
+Kisama Heritage,"Hornbill Festival Grounds, Crafts Bazaar",1,3000–5000,"Cultural, Festival",Nagaland
+Ruzaphema Village,"Ruzaphema Trout Stream, Village Trail",1,3000–5000,"Village, Nature",Nagaland
+Kachari Ruins,"Ancient Ruins, Museum",1,3000–5000,"Archaeological, Historical",Nagaland
+Bhubaneswar,"Lingaraj Temple, Udayagiri & Khandagiri Caves",2,4000–7000,"Religious, Cave",Odisha
+Puri,"Jagannath Temple, Puri Beach",2,4000–8000,"Pilgrimage, Beach",Odisha
+Konark,"Sun Temple, Konark Beach",1–2,3500–7000,"Heritage, Beach",Odisha
+Chilika Lake,"Nalabana Bird Sanctuary, Rambha Island",2,5000–9000,"Lake, Wildlife",Odisha
+Cuttack,"Barabati Fort, Mahanadi Riverfront",1–2,3000–6000,"Historical, River",Odisha
+Rourkela,"Hanuman Vatika, Vedavyas Temple",1–2,3500–7000,"Urban, Religious",Odisha
+Sambalpur,"Hirakud Dam, Leaning Temple",1–2,3500–7000,"Dam, Historical",Odisha
+Dhenkanal,"Kapilas Waterfall, Saragaon Falls",1–2,3500–7000,"Waterfall, Nature",Odisha
+Koraput,"Duduma Waterfalls, Gupteswar Cave",2,4500–8000,"Waterfall, Cave",Odisha
+Gopalpur,"Gopalpur Beach, Terekhol Island",1–2,3000–6000,"Beach, Coastal",Odisha
+Chandipur,"Vanishing Beach, Turumunga Forest",1–2,3000–6000,"Beach, Forest",Odisha
+Simlipal NP,"Joranda Falls, Barehipani Falls",2–3,6000–10000,"National Park, Waterfall",Odisha
+Satkosia Gorge,"River Gorge, Wildlife Sanctuary",1–2,4000–8000,"Gorge, Wildlife",Odisha
+Hirakud Dam,"Dam, Boat Rides",1,3000–6000,"Dam, Recreational",Odisha
+Dhauli,"Dhauli Shanti Stupa, Peace Pagoda",1,3000–5000,"Religious, Historical",Odisha
+Raghurajpur,Pattachitra Art Village,1,3000–5000,"Cultural, Art",Odisha
+Jagannath Temple (Puri),"Gundicha Temple, Snana Yatra",1,3000–6000,Pilgrimage,Odisha
+Balasore,"Chandipur, Kharagpur (nearby)",1–2,3000–6000,"Coastal, Urban",Odisha
+Bhitarkanika NP,"Mangrove Sanctuary, Crocodile Breeding Centre",2,5000–9000,"Wildlife, Mangrove",Odisha
+Lingaraj Temple,"Rajarani Temple, Bindusagar Lake",1,3000–6000,"Religious, Architectural",Odisha
+Amritsar,"Golden Temple, Jallianwala Bagh",1–2,3000–6000,"Religious, Historical",Punjab
+Wagah,Wagah Border Ceremony,1,2000–4000,"Patriotic, Ceremony",Punjab
+Chandigarh,"Rock Garden, Sukhna Lake",1–2,3000–7000,"Urban, Garden",Punjab
+Patiala,"Qila Mubarak, Sheesh Mahal",1–2,3000–6000,"Fort, Palace",Punjab
+Jalandhar,"Devi Talab Mandir, Wonderland Amusement Park",1–2,2500–5000,"Religious, Amusement",Punjab
+Ludhiana,"Rural Tourism, Phillaur Fort",1–2,3000–6000,"Rural, Historical",Punjab
+Bathinda,"Qila Mubarak, Rose Garden",1–2,2500–5000,"Fort, Garden",Punjab
+Anandpur Sahib,"Takht Sri Keshgarh Sahib, Hola Mohalla",1–2,3000–6000,"Religious, Festival",Punjab
+Rupnagar,"Ropar Wetland, Archaeological Museum",1–2,3000–6000,"Wetland, Museum",Punjab
+Kapurthala,"Jagatjit Palace, Elysee Palace",1,3000–5000,"Palace, Architectural",Punjab
+Patiala Zoological Park,New Garden,1,2000–4000,"Zoo, Garden",Punjab
+Pathankot,"Nurpur Fort, Shahpur Kandi Fort",1–2,3000–6000,"Fort, Historical",Punjab
+Gurdaspur,"Mukteshwar Temple, Anandpur Sahib",1–2,2500–5000,"Religious, Scenic",Punjab
+Mansa,"Tilla Jogian, Forest Reserve",1–2,3000–6000,"Hill, Nature",Punjab
+Muktsar,"Gurudwara Tibbi Sahib, Dera",1,2000–4000,Religious,Punjab
+Ferozepur,"Hussainiwala Border, National Martyrs Memorial",1,2000–4000,"Patriotic, Memorial",Punjab
+Sangrur,"Talkatora Gurudwara, Jind Fort",1–2,2500–5000,"Religious, Fort",Punjab
+Hoshiarpur,Takhni-Rehmapur Wildlife Sanctuary,1–2,3000–6000,"Wildlife, Nature",Punjab
+Barnala,"Peer Balor Sahib, Historical Sites",1,2000–4000,"Religious, Historical",Punjab
+Fazilka,"Christopher Ali Memorial, Jakhu Temple",1,2000–4000,"Memorial, Religious",Punjab
+Jaipur,"Amber Fort, City Palace",2–3,6000–10000,"Heritage, Urban",Rajasthan
+Udaipur,"Lake Pichola, City Palace",2–3,6000–10000,"Lakeside, Royal",Rajasthan
+Jodhpur,"Mehrangarh Fort, Jaswant Thada",2–3,6000–10000,"Fort, Desert",Rajasthan
+Jaisalmer,"Golden Fort, Sam Sand Dunes",2–3,7000–11000,"Desert, Fort",Rajasthan
+Mount Abu,"Nakki Lake, Dilwara Temples",2,5000–9000,"Hill Station, Temple",Rajasthan
+Pushkar,"Brahma Temple, Pushkar Lake",1–2,4000–7000,"Religious, Scenic",Rajasthan
+Bikaner,"Junagarh Fort, Karni Mata Temple",2,5000–9000,"Fort, Religious",Rajasthan
+Ajmer,"Ajmer Sharif Dargah, Ana Sagar Lake",1–2,4000–7000,"Pilgrimage, Urban",Rajasthan
+Alwar,"Bala Quila, Sariska Tiger Reserve",2,5000–8000,"Fort, Wildlife",Rajasthan
+Bharatpur,Keoladeo National Park,1–2,4000–7000,Bird Sanctuary,Rajasthan
+Bundi,"Taragarh Fort, Stepwells",1–2,4000–7000,"Fort, Architecture",Rajasthan
+Chittorgarh,"Chittorgarh Fort, Rana Kumbha Palace",2,5000–8000,"Fort, Historical",Rajasthan
+Kota,"Chambal Garden, Seven Wonders Park",1–2,4000–7000,"Riverfront, Recreational",Rajasthan
+Neemrana,Neemrana Fort Palace,1,4000–6000,"Fort, Luxury Stay",Rajasthan
+Barmer,"Desert Villages, Forts",2,5000–8000,"Rural, Desert",Rajasthan
+Dholpur,"Chambal River Safari, Machkund Temple",1–2,4000–7000,"River, Spiritual",Rajasthan
+Tonk,"Sunehri Kothi, Hathi Bhata",1,3000–6000,"Architecture, Sculpture",Rajasthan
+Sikar,Shekhawati Havelis,1,3000–5000,"Heritage, Art",Rajasthan
+Jhunjhunu,"Rani Sati Temple, Mandawa Havelis",1–2,3000–6000,"Pilgrimage, Art",Rajasthan
+Pali,"Om Banna Temple, Jawai Leopard Hills",2,4000–7000,"Wildlife, Pilgrimage",Rajasthan
+Agartala,"Ujjayanta Palace, Jagannath Temple",2,4000–7000,"Urban, Cultural",Tripura
+Unakoti,"Rock Carvings, Ancient Heritage",1,3000–5000,"Heritage, Sculpture",Tripura
+Neermahal,"Lake Palace, Rudrasagar Lake",1–2,3500–6000,"Palace, Lake",Tripura
+Sipahijala WS,"Zoo, Boat Ride",1–2,3000–6000,Wildlife Sanctuary,Tripura
+Jampui Hills,"Scenic Points, Sunrise Valley",2,4000–7000,"Hill Station, Nature",Tripura
+Kailashahar,"Unakoti Trail, Local Temples",1–2,3000–6000,"Religious, Cultural",Tripura
+Dharmanagar,"Eco Park, North Tripura Views",1–2,3000–6000,"Park, Scenic",Tripura
+Ambassa,"Kamalasagar Kali Temple, Cultural Trails",1–2,3000–6000,"Spiritual, Nature",Tripura
+Udaipur,"Tripura Sundari Temple, Mahadev Bari",1–2,3000–6000,"Religious, Riverfront",Tripura
+Boxanagar,"Buddhist Ruins, Forest Walks",1,3000–5000,"Historical, Rural",Tripura
+Belonia,"Indo-Bangla Border View, Green Trails",1,3000–5000,"Border, Scenic",Tripura
+Trishna WS,"Buffalo Reserve, Jungle Trek",1–2,3000–6000,"Wildlife, Nature",Tripura
+Pilak,"Ancient Carvings, Buddha Sculptures",1,3000–5000,"Heritage, Buddhist",Tripura
+Baramura Hills,"Trekking Routes, Viewpoints",1–2,3000–5000,"Trekking, Scenic",Tripura
+Kamalasagar Lake,"Lake Views, Temple Hilltop",1,3000–5000,"Lake, Religious",Tripura
+Gandachhara,"Tribal Markets, Forest Walks",1–2,3000–5000,"Rural, Cultural",Tripura
+Mandwi,Indo-Bangla Trade Center,1,3000–5000,"Border Market, Culture",Tripura
+Sonamura,"Riverfront, Sunset Point",1,3000–5000,"River, Recreation",Tripura
+Melaghar,Neermahal Access Point,1,3000–5000,"Lake, Access Hub",Tripura
+Khowai,"Khowai River Trails, Tribal Villages",1–2,3000–5000,"River, Culture",Tripura
+Agra,"Taj Mahal, Agra Fort",2,5000–8000,"Historical, World Heritage",Uttar Pradesh
+Varanasi,"Kashi Vishwanath, Ganga Aarti",2–3,5000–9000,"Pilgrimage, Riverfront",Uttar Pradesh
+Lucknow,"Bara Imambara, Rumi Darwaza",2,5000–8000,"Heritage, Cultural",Uttar Pradesh
+Prayagraj,"Sangam, Kumbh Mela Grounds",2,4000–7000,"Religious, Historical",Uttar Pradesh
+Ayodhya,"Ram Janmabhoomi, Hanuman Garhi",1–2,4000–7000,"Religious, Mythological",Uttar Pradesh
+Mathura,"Krishna Janmabhoomi, Vishram Ghat",1–2,4000–7000,"Pilgrimage, River",Uttar Pradesh
+Vrindavan,"ISKCON Temple, Prem Mandir",1–2,4000–7000,"Religious, Cultural",Uttar Pradesh
+Jhansi,"Jhansi Fort, Rani Mahal",1–2,4000–7000,"Fort, Heritage",Uttar Pradesh
+Chitrakoot,"Ram Ghat, Kamadgiri",1–2,3500–6000,"Religious, Hills",Uttar Pradesh
+Sarnath,"Dhamek Stupa, Sarnath Museum",1,3000–5000,"Buddhist, Historical",Uttar Pradesh
+Meerut,"Augarnath Temple, Hastinapur",1–2,3000–6000,"Religious, Mythological",Uttar Pradesh
+Bareilly,"Alakhnath Temple, Dargah-e-Ala Hazrat",1,3000–5000,"Religious, Urban",Uttar Pradesh
+Gorakhpur,"Gorakhnath Temple, Railway Museum",1–2,3000–6000,"Religious, Family",Uttar Pradesh
+Noida,"Worlds of Wonder, Okhla Bird Sanctuary",1–2,4000–7000,"Entertainment, Wildlife",Uttar Pradesh
+Kanpur,"Allen Forest Zoo, Bithoor",1–2,3000–6000,"Urban, Religious",Uttar Pradesh
+Etawah,"Safari Park, Chambal River",1–2,3500–6000,"Wildlife, River",Uttar Pradesh
+Fatehpur Sikri,"Buland Darwaza, Salim Chishti Dargah",1–2,3000–6000,"Heritage, Mughal",Uttar Pradesh
+Deoria Tal,"Lake Trek, Camping",1–2,4000–7000,"Nature, Adventure",Uttar Pradesh
+Shravasti,"Jetavana Monastery, Buddhist Circuit",1–2,3000–6000,"Religious, Historical",Uttar Pradesh
+Banda,"Kalinjar Fort, Ken River",1–2,3000–6000,"Fort, Nature",Uttar Pradesh
+Dehradun,"Forest Research Institute, Robber’s Cave",2,4000–7000,"Urban, Nature",Uttarakhand
+Mussoorie,"Kempty Falls, Camel’s Back Road",2,5000–8000,Hill Station,Uttarakhand
+Nainital,"Naini Lake, Snow View Point",2–3,5000–8000,"Hill Station, Lake",Uttarakhand
+Rishikesh,"Laxman Jhula, Ganga Rafting",2–3,5000–8000,"Adventure, Spiritual",Uttarakhand
+Haridwar,"Har Ki Pauri, Ganga Aarti",2,4000–7000,Pilgrimage,Uttarakhand
+Auli,"Skiing Slopes, Ropeway",2–3,6000–10000,"Skiing, Scenic",Uttarakhand
+Kedarnath,"Kedarnath Temple, Trek",2–3,6000–10000,"Pilgrimage, Mountain",Uttarakhand
+Badrinath,"Badrinath Temple, Tapt Kund",2,5000–9000,"Religious, Himalayan",Uttarakhand
+Almora,"Bright End Corner, Kasar Devi Temple",2,4000–7000,"Cultural, Nature",Uttarakhand
+Ranikhet,"Jhula Devi Temple, Golf Course",2,4000–7000,"Scenic, Military Town",Uttarakhand
+Mukteshwar,"Chauli Ki Jali, Mukteshwar Temple",2,4000–7000,"Hill Station, Scenic",Uttarakhand
+Pithoragarh,"Soar Valley, Pithoragarh Fort",2,4000–7000,"Nature, Fort",Uttarakhand
+Joshimath,"Narasimha Temple, Ropeway to Auli",1–2,4000–7000,"Base Town, Spiritual",Uttarakhand
+Valley of Flowers,"National Park Trek, Hemkund Sahib",3,6000–10000,"Trekking, Floral Trail",Uttarakhand
+Lansdowne,"Bhulla Tal, Tip N Top",1–2,4000–7000,Peaceful Hill Station,Uttarakhand
+Munsiyari,"Panchachuli Peaks, Birthi Falls",2–3,5000–8000,"Trekking, Himalayan",Uttarakhand
+Tehri,"Tehri Dam, Water Sports",2,5000–8000,"Adventure, Dam",Uttarakhand
+Chakrata,"Tiger Falls, Deoban",2,4000–7000,"Hill, Offbeat",Uttarakhand
+Champawat,"Baleshwar Temple, Kranteshwar Mandir",1–2,3000–6000,"Historical, Religious",Uttarakhand
+Devprayag,"Confluence View, Raghunath Temple",1–2,3000–6000,"Pilgrimage, Scenic",Uttarakhand
+Kolkata,"Victoria Memorial, Howrah Bridge",2–3,5000–9000,"Urban, Colonial",West Bengal
+Darjeeling,"Tiger Hill, Batasia Loop",2–3,6000–10000,"Hill Station, Heritage Rail",West Bengal
+Siliguri,"Mahananda WS, Kali Mandir",1–2,4000–7000,"Urban, Wildlife",West Bengal
+Kalimpong,"Durpin Monastery, Cactus Nursery",1–2,4000–7000,"Hill Station, Botanical",West Bengal
+Sundarbans,"Mangrove Safari, Tiger Watch",2–3,6000–10000,"Wildlife, Delta",West Bengal
+Shantiniketan,"Tagore Museum, Visva Bharati Campus",1–2,3000–6000,"Cultural, Educational",West Bengal
+Digha,"Digha Beach, Science Centre",2,4000–7000,"Beach, Family",West Bengal
+Mandarmani,"Drive-on Beach, Resorts",1–2,4000–7000,"Beach, Relaxation",West Bengal
+Bishnupur,"Terracotta Temples, Rasmancha",1–2,3000–6000,"Heritage, Art",West Bengal
+Murshidabad,"Hazarduari Palace, Katra Mosque",1–2,3000–6000,Mughal Heritage,West Bengal
+Tarapith,"Tara Maa Temple, Riverfront",1–2,3000–6000,"Religious, Rural",West Bengal
+Cooch Behar,"Rajbari Palace, Madan Mohan Temple",1–2,3000–6000,"Royal, Historical",West Bengal
+Jaldapara NP,"Rhino Safari, Elephant Rides",2,5000–9000,"Wildlife, Forest",West Bengal
+Bakkhali,"Bakkhali Beach, Henry Island",2,4000–7000,Secluded Beach,West Bengal
+Ganga Sagar,"Kapil Muni Temple, Confluence Point",1–2,4000–7000,"Religious, Island",West Bengal
+Ajodhya Hills,"Bamni Falls, Tribal Culture",2,4000–7000,"Hill, Tribal",West Bengal
+Chandannagar,"French Colony, Strand Road",1,3000–5000,"Colonial, Scenic",West Bengal
+Raichak,"Fort Resort, Ganges View",1–2,4000–7000,"Riverfront, Luxury",West Bengal
+Purulia,"Joychandi Pahar, Charida Mask Village",1–2,4000–7000,"Hill, Folk Art",West Bengal
+Malda,"Gour, Adina Mosque",1–2,3000–6000,"Heritage, Religious",West Bengal

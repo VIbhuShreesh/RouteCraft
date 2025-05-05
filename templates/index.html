@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>AI Trip Planner</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      background-image: url('/static/images/image1.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      transition: background 1s ease-in-out;
+    }
+
+    .container {
+      width: 90%;
+      max-width: 600px;
+      text-align: center;
+      background: rgba(255, 255, 255, 0.2);
+      backdrop-filter: blur(10px);
+      -webkit-backdrop-filter: blur(10px);
+      padding: 30px;
+      border-radius: 20px;
+      box-shadow: 0px 6px 12px rgba(0, 0, 0, 0.15);
+      border: 1px solid rgba(255, 255, 255, 0.4);
+      color: white;
+    }
+
+    input, button {
+      width: 100%;
+      padding: 15px;
+      margin: 10px 0;
+      font-size: 16px;
+      border-radius: 10px;
+      box-sizing: border-box;
+      border: 1px solid black;
+      font-family: inherit;
+    }
+
+    button {
+      background-color: white;
+      color: black;
+      cursor: pointer;
+      transition: background-color 0.3s, transform 0.2s;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    button:hover {
+      background-color: #e2e8f0;
+      transform: scale(1.02);
+    }
+
+    .people-options {
+      display: flex;
+      justify-content: space-between;
+      gap: 10px;
+    }
+
+    .people-options button {
+      flex: 1;
+      background-color: white;
+      color: black;
+      cursor: pointer;
+      border: 1px solid black;
+      border-radius: 10px;
+      padding: 15px;
+      transition: background-color 0.3s, transform 0.2s;
+    }
+
+    .people-options button:hover {
+      background-color: #e2e8f0;
+      transform: scale(1.02);
+    }
+
+    .people-options button.active {
+      background-color: black;
+      color: white;
+    }
+
+    h1, h2, h3, p {
+      text-shadow: 1px 1px 2px rgba(0,0,0,0.4);
+    }
+
+    .dropdown-container {
+      text-align: left;
+      margin: 10px 0;
+    }
+
+    #customDropdown {
+      background-color: white;
+      color: black;
+      border: 1px solid black;
+      border-radius: 10px;
+      padding: 15px;
+      font-size: 16px;
+      cursor: pointer;
+      width: 100%;
+      box-sizing: border-box;
+    }
+
+    #dropdownMenu {
+      display: none;
+      position: absolute;
+      z-index: 99;
+      background-color: white;
+      color: black;
+      max-height: 300px;
+      overflow-y: auto;
+      scroll-behavior: smooth;
+      width: 100%;
+      border: 1px solid black;
+      border-radius: 10px;
+      margin-top: 5px;
+      box-sizing: border-box;
+    }
+
+    #dropdownMenu input {
+      width: 100%;
+      padding: 10px;
+      border: none;
+      border-bottom: 1px solid #ccc;
+      box-sizing: border-box;
+    }
+
+    .dropdown-option {
+      padding: 12px;
+      cursor: pointer;
+      transition: background 0.2s;
+    }
+
+    .dropdown-option:hover {
+      background-color: #e2e8f0;
+    }
+
+    pre {
+      white-space: pre-wrap;
+      text-align: center;
+      font-size: large;
+      color: black;
+      font-family: Arial, sans-serif;
+    }
+
+    /* 🔽 Action Button Enhancements */
+    .action-btn {
+      background-color: white;
+      color: black;
+      padding: 12px 24px;
+      border-radius: 12px;
+      font-size: 16px;
+      font-weight: bold;
+      border: 2px solid black;
+      box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.15);
+      cursor: pointer;
+      transition: all 0.3s ease;
+    }
+
+    .action-btn:hover {
+      background-color: #f1f5f9;
+      transform: scale(1.03);
+    }
+
+    .download-btn {
+      border-color: #2563eb;
+      color: #2563eb;
+    }
+
+    .download-btn:hover {
+      background-color: #2563eb;
+      color: white;
+    }
+
+    .restart-btn {
+      border-color: #059669;
+      color: #059669;
+    }
+
+    .restart-btn:hover {
+      background-color: #059669;
+      color: white;
+    }
+  </style>
+</head>
+<body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+
+<script>
+  let images = [
+    '/static/images/image1.jpg',
+    '/static/images/image2.jpg',
+    '/static/images/image3.jpg',
+    '/static/images/image4.jpg',
+    '/static/images/image5.jpg',
+    '/static/images/image6.jpg',
+    '/static/images/image7.jpg',
+    '/static/images/image8.jpg'
+  ];
+  let currentImageIndex = 0;
+  function changeBackground() {
+    currentImageIndex = (currentImageIndex + 1) % images.length;
+    document.body.style.backgroundImage = `url('${images[currentImageIndex]}')`;
+  }
+  setInterval(changeBackground, 3000);
+  window.onload = changeBackground;
+
+  function showInputPage() {
+    document.getElementById("mainPage").style.display = "none";
+    document.getElementById("inputPage").style.display = "block";
+  }
+
+  function setPeople(button, value) {
+    const buttons = document.querySelectorAll('.people-options button');
+    buttons.forEach(btn => btn.classList.remove('active'));
+    button.classList.add('active');
+    document.getElementById('people').value = value;
+  }
+
+  function restartTrip() {
+    document.getElementById('tripDetails').style.display = 'none';
+    document.getElementById('inputPage').style.display = 'block';
+    document.getElementById('destination').value = '';
+    document.getElementById('people').value = '';
+    document.getElementById('selectedDestination').innerText = 'Select a destination';
+    document.querySelectorAll('.people-options button').forEach(btn => btn.classList.remove('active'));
+  }
+
+  function toggleDropdown() {
+    const menu = document.getElementById('dropdownMenu');
+    menu.style.display = menu.style.display === 'none' ? 'block' : 'none';
+  }
+
+  function selectDestination(place) {
+    document.getElementById('selectedDestination').innerText = place;
+    document.getElementById('destination').value = place;
+    document.getElementById('dropdownMenu').style.display = 'none';
+  }
+
+  function filterDropdown() {
+    const input = document.getElementById('dropdownSearch').value.toLowerCase();
+    const options = document.getElementById('dropdownOptions').getElementsByClassName('dropdown-option');
+    for (let i = 0; i < options.length; i++) {
+      const option = options[i];
+      const text = option.innerText.toLowerCase();
+      option.style.display = text.includes(input) ? '' : 'none';
+    }
+  }
+
+  document.addEventListener('click', function(event) {
+    const dropdown = document.getElementById('dropdownMenu');
+    const customDropdown = document.getElementById('customDropdown');
+    if (!dropdown.contains(event.target) && !customDropdown.contains(event.target)) {
+      dropdown.style.display = 'none';
+    }
+  });
+
+  document.addEventListener("DOMContentLoaded", function () {
+    document.getElementById("planBtn").addEventListener("click", function () {
+      const destination = document.getElementById('destination').value;
+      const people = document.getElementById('people').value;
+
+      if (!destination || !people) {
+        alert("Please enter destination and select number of people!");
+        return;
+      }
+
+      fetch('/get_recommendations', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ destination: destination, people: people })
+      })
+      .then(response => response.json())
+      .then(data => {
+        if (data.error) {
+          alert(data.error);
+        } else {
+          document.getElementById('inputPage').style.display = 'none';
+          document.getElementById('tripDetails').style.display = 'block';
+
+          let output = `
+🏙️ City: ${data.City}
+📍 Nearby Places: ${data['Nearby Tourist Places']}
+🕒 Recommended Days: ${data.Days}
+🗺️ Type of Place: ${data['Type of Place']}
+📌 State: ${data.State}
+💰 Total Cost: ${data['Overall Cost (INR)']}
+          `;
+          document.getElementById('tripSummary').innerText = "Here's your personalized trip summary based on your input.";
+          document.getElementById('aiRecommendations').innerText = output.trim();
+        }
+      })
+      .catch(error => {
+        console.error('Error fetching recommendation:', error);
+        alert("Failed to fetch recommendation.");
+      });
+    });
+  });
+
+  function downloadPDF() {
+    const data = document.getElementById('aiRecommendations').innerText;
+
+    // Create a clean, centered layout
+    const pdfContainer = document.createElement('div');
+    pdfContainer.style.padding = '30px';
+    pdfContainer.style.textAlign = 'center';
+    pdfContainer.style.fontFamily = 'Arial, sans-serif';
+    pdfContainer.style.fontSize = '16px';
+
+    const heading = document.createElement('h1');
+    heading.innerText = 'Trip Planner';
+    heading.style.marginBottom = '20px';
+
+    const content = document.createElement('pre');
+    content.innerText = data;
+    content.style.whiteSpace = 'pre-wrap';
+    content.style.textAlign = 'center';
+    content.style.fontSize = '16px';
+
+    pdfContainer.appendChild(heading);
+    pdfContainer.appendChild(content);
+    document.body.appendChild(pdfContainer);
+
+    html2pdf().set({
+      filename: 'my-trip.pdf',
+      margin: 10
+    }).from(pdfContainer).save().then(() => {
+      document.body.removeChild(pdfContainer);
+    });
+  }
+</script>
+
+<!-- Start Page -->
+<div class="container" id="mainPage">
+  <h1>Welcome to RouteCraft - Trip Planner</h1>
+  <p>Plan your perfect trip recommendations!</p>
+  <input type="text" placeholder="Your Name" id="user_name">
+  <input type="email" placeholder="Your Email" id="user_email">
+  <button onclick="showInputPage()">Start Planning</button>
+</div>
+
+<!-- Input Page -->
+<div class="container" id="inputPage" style="display:none;">
+  <h2>Enter Your Trip Destination</h2>
+  <div class="dropdown-container">
+    <p style="margin-bottom: 5px;">Choose Destination:</p>
+    <div style="position: relative;">
+      <div id="customDropdown" onclick="toggleDropdown()">
+        <span id="selectedDestination">Select a destination</span>
+      </div>
+      <div id="dropdownMenu">
+        <input type="text" id="dropdownSearch" placeholder="Search destination..." onkeyup="filterDropdown()">
+        <div id="dropdownOptions">
+          {% for place in destinations %}
+            <div class="dropdown-option" onclick="selectDestination('{{ place }}')">{{ place }}</div>
+          {% endfor %}
+        </div>
+      </div>
+    </div>
+    <input type="hidden" id="destination">
+  </div>
+
+  <p>Select Number of People:</p>
+  <div class="people-options">
+    <button onclick="setPeople(this, 'Solo')">🧍 Solo</button>
+    <button onclick="setPeople(this, 'Couple')">🧑‍🤝‍🧑 Couple</button>
+    <button onclick="setPeople(this, 'Family')">👨‍👩‍👧‍👦 Family</button>
+    <button onclick="setPeople(this, 'Friends')">👫 Friends</button>
+  </div>
+
+  <input type="hidden" id="people">
+  <button id="planBtn">Plan My Trip</button>
+</div>
+
+<!-- Trip Details Page -->
+<div class="container" id="tripDetails" style="display:none;">
+  <h2>Your Trip Details</h2>
+  <p id="tripSummary"></p>
+  <h3>Trip Recommendations:</h3>
+  <pre id="aiRecommendations"></pre>
+  <div style="display: flex; gap: 15px; justify-content: center; flex-wrap: wrap;">
+    <button class="action-btn download-btn" onclick="downloadPDF()">⬇️ Download Trip</button>
+    <button class="action-btn restart-btn" onclick="restartTrip()">🔄 Plan Another Trip</button>
+  </div>
+</div>
+
+</body>
+</html>
